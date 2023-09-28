@@ -10,12 +10,20 @@ Live Demo
 Table Colorizer Live Demo https://tabel-colorizer.vercel.app/
 
 Features
-Dynamic Table Generation: Input the number of rows you want, and instantly generate a table of that size.
+<bold>Dynamic Table Generation</bold: Input the number of rows you want, and instantly generate a table of that size.
+
 Individual Cell Colorization: Click on any cell to colorize it, or input a cell number to target a specific cell.
+
 Responsive Design: Adapts to different screen sizes, ensuring a smooth experience across devices.
-How to Use
+
+How to Use:
+
 Generate Table: Input the desired number of rows (up to 5 for optimal performance) and click the GET button.
+
 Colorize on Click: Simply click on any table cell to colorize it.
+
 Targeted Colorization: Input a cell number and click on the Color The Cell button to colorize a specific cell.
-Development
+
+Development:
+
 This application was developed using React and employs state management to handle user interactions and render updates.
